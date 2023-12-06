@@ -1,6 +1,10 @@
 # Hi, I am Olusanya 👋
 
-I am a Fullstack Software Developer, and an avid sport lover with a 6+ years previous background in Architecture (the built environment). I enjoy the visual and functionality of the Frontend using React and i like writing server side logic. I build things that work on the web and I am currently learning Data Structure and Algorithms.
+I am a Fullstack Software Developer, and an avid sport lover with a 6+ years previous background in Architecture (the built environment). 
+
+I enjoy building the Visual Interface and Functionality of the Frontend using ReactJs and I enjoy writing Server Side Logic on the Backend using NodeJs. 
+
+I build things that work on the web and I am currently learning Data Structure and Algorithms.
 
 ## Skills
 ![3](https://github.com/olusanyaJ/olusanyaJ/assets/145439880/0e1459b6-1c34-4cbf-b515-0bb877c461fc) ![5](https://github.com/olusanyaJ/olusanyaJ/assets/145439880/54c4642b-5072-45ec-8cae-26bfc7027ca3) 
@@ -21,17 +25,3 @@ Testing: Jest, Enzyme
 Deployment & Development Tools:
 Heroku, GitHub, WebPack
 
-<!--
-**olusanyaJ/olusanyaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
