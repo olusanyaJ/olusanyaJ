@@ -4,7 +4,7 @@ I am a Fullstack Software Developer, and an avid sport lover.
 
 I enjoy building the Visual Interfaces and writing Server Side Logic. 
 
-I build things that work on the web and I am currently building a mobile app for sports (https://github.com/olusanyaJ/FanVerse)
+I build things that work on the web and I am currently building a mobile app tailored for sports enthusiasts (https://github.com/olusanyaJ/FanVerse)
 
 ## Skills
 
